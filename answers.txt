@@ -1,0 +1,16 @@
+Section 1: Connaissances Générales
+Bases du Développement Web : Le développement web consiste à créer et maintenir des sites et applications web. Il comprend le développement front-end (HTML, CSS, JavaScript) pour l'interface utilisateur et le back-end pour la logique serveur et les bases de données.
+
+Connaissances HTML : Oui, HTML signifie HyperText Markup Language. Il est utilisé pour structurer le contenu des pages web avec des balises.
+
+Section 2: Connaissance de CSS
+Compréhension du CSS : Oui, CSS signifie Cascading Style Sheets. Il est utilisé pour styliser et mettre en page les éléments HTML, contrôlant couleurs, polices, et mise en page.
+
+Section 3: JavaScript et Son Importance
+Introduction à JavaScript : Oui, JavaScript est un langage de programmation pour rendre les pages web interactives et dynamiques, comme les animations et la validation de formulaires.
+
+Section 4: Introduction à React et Node.js
+Connaissance de React et Node.js : Oui, React est une bibliothèque JavaScript pour construire des interfaces utilisateur dynamiques. Node.js est un environnement d'exécution JavaScript côté serveur pour créer des applications web performantes.
+
+Section 5: Question Bonus
+Intentions d'Apprentissage : Je souhaite apprendre le développement web pour créer des applications interactives, résoudre des problèmes complexes, et explorer des opportunités professionnelles dans le domaine de la technologie.
